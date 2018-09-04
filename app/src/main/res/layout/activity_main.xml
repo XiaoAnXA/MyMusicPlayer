@@ -25,21 +25,25 @@
         android:layout_height="wrap_content">
 
         <Button
+            android:layout_weight="1"
             android:id="@+id/main_btn_play"
             android:text="播放"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
         <Button
+            android:layout_weight="1"
             android:id="@+id/main_btn_Pause"
             android:text="暂停"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
         <Button
+            android:layout_weight="1"
             android:id="@+id/main_btn_Stop"
             android:text="停止"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
         <Button
+            android:layout_weight="1"
             android:id="@+id/main_btn_Refresh"
             android:text="刷新"
             android:layout_width="wrap_content"
